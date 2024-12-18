@@ -1,8 +1,10 @@
 # 💬 Chatbot template
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+Saw someone discussing about a mini project for developing a helper chatbot. Dont. You WILL use api calls. You dont have resources to even inference such models. Here goes nothing.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+A simple Streamlit app that shows how to build a chatbot using Google's Gemini API.
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatora.streamlit.app/)
 
 ### How to run it on your own machine
 
@@ -17,3 +19,4 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
    ```
    $ streamlit run streamlit_app.py
    ```
+Don't be a soydev.
